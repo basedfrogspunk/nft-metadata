@@ -1,0 +1,35 @@
+{
+    "name": "Frogs Punk",
+    "description": "4.444 Timeless FrogsPunk Collectibles Are Stored On The Base Blockchain",
+    "image": "ipfs://bafybeiez6be2zfyeuftijlbdvjelwfnqrlz6q5lensd6w36blwtpwzohoe/2016.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "5B7E5D"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Dank Shades"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Milk"
+        },
+        {
+            "trait_type": "Hair",
+            "value": ""
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Boater"
+        }
+    ]
+}
